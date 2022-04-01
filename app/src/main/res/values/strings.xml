@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas 3</string>
+    <string name="str_kirim_pesan">Kirim Pesan</string>
+    <string name="str_balasan">Balasan:</string>
+    <string name="str_masukkan_pesan">Masukkan Pesan</string>
+    <string name="str_browsing">Browsing</string>
+    <string name="str_pesan_anda_kosong">Pesan anda kosong</string>
+    <string name="str_nama_saya">I Putu Ekajaya Awidya Putra</string>
+    <string name="str_nim_saya">200030658</string>
+</resources>
